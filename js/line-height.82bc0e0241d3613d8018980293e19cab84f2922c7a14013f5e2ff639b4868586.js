@@ -1,0 +1,1 @@
+(()=>{document.addEventListener("DOMContentLoaded",()=>{let e=/[\u1000-\u109F\uAA60-\uAA7F\uA9E0-\uA9FF\uABC0-\uABFF]/;document.querySelectorAll("h1.page-title, h3>a.list-title").forEach(t=>{e.test(t.textContent)&&t.classList.add("lhi18")})});})();
