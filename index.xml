@@ -66,16 +66,17 @@
  &lt;span id="close-confirmed-message"&gt;&amp;times;&lt;/span&gt;
  &lt;p&gt;တိုင်ကြားချက်ကို လက်ခံရရှိပါသည်။ လိုအပ်သလို ဆက်လက်ဆောင်ရွက်ပေးပါမယ်။&lt;/p&gt;
  &lt;p&gt;The complaint has been well received and the process will continue as required.&lt;/p&gt;
+ &lt;p class="close-this"&gt;နောက်ထပ်တိုင်ကြားမှုအသစ်ပို့ရန် ဒါကို ပိတ်ပါ။ Close this for new complaint.&lt;/p&gt;
  &lt;/div&gt;
- &lt;form id="complaintForm" action="https://docs.google.com/forms/d/e/1FAIpQLSc7sKhWwnd1JAtCPm4yeMkpD59G-9f5nnMSb_LU5Br1pry8WA/formResponse" target="_blank"&gt;
+ &lt;form id="complaintForm" action="https://complain-form-submit.mgmavlca.workers.dev/submit" method="POST"&gt;
  &lt;button type="reset" class="reset-form"&gt;Clear All&lt;/button&gt;
- &lt;label for="entry.1418517009"&gt;အမည် (Name)&lt;/label&gt;
- &lt;input type="text" name="entry.1418517009" placeholder="အမည် (Name)" autocomplete="off"&gt;
- &lt;label for="entry.653377616"&gt;ဖုန်းနံပါတ် (Phone No.)&lt;/label&gt;
- &lt;input type="text" name="entry.653377616" placeholder="ဖုန်းနံပါတ် (Phone No.)" autocomplete="off"&gt;
- &lt;label for="entry.1257843074"&gt;တိုင်ကြားချက် (Complaint) &lt;span class="ast"&gt;&amp;ast;&lt;/span&gt;&lt;/label&gt;
- &lt;textarea name="entry.1257843074" rows="6" placeholder="တိုင်ကြားချက် အကြောင်းအရာ (complaint description)" required autocomplete="off"&gt;&lt;/textarea&gt;
- &lt;button type="submit" id="submitComplaint"&gt;တိုက်ကြားချက်ပို့မည် (Submit)&lt;/button&gt;
+ &lt;label for="entry.1952372902"&gt;အမည် (Name)&lt;/label&gt;
+ &lt;input type="text" name="entry.1952372902" placeholder="အမည် (Name)" autocomplete="off"&gt;
+ &lt;label for="entry.1754947599"&gt;ဖုန်းနံပါတ် (Phone No.)&lt;/label&gt;
+ &lt;input type="text" name="entry.1754947599" placeholder="ဖုန်းနံပါတ် (Phone No.)" autocomplete="off"&gt;
+ &lt;label for="entry.366446083"&gt;တိုင်ကြားချက် (Complaint) &lt;span class="ast"&gt;&amp;ast;&lt;/span&gt;&lt;/label&gt;
+ &lt;textarea name="entry.366446083" rows="6" placeholder="တိုင်ကြားချက် အကြောင်းအရာ (complaint description)" required autocomplete="off"&gt;&lt;/textarea&gt;
+ &lt;button type="submit" id="submitComplaint"&gt;တိုင်ကြားချက်ပို့မည် (Submit)&lt;/button&gt;
  &lt;/form&gt;
 &lt;/div&gt;</description></item><item><title>Search in this Site</title><link>https://mgmavlca.com/search/</link><pubDate>Sun, 07 Sep 2025 17:55:34 +0630</pubDate><guid>https://mgmavlca.com/search/</guid><description>&lt;div id="search"&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -123,7 +124,7 @@
 &lt;/div&gt;</description></item><item><title>Visualized Responses Data Overview 2025</title><link>https://mgmavlca.com/docs/records/responses-overview-2025/</link><pubDate>Fri, 22 Aug 2025 15:25:48 +0630</pubDate><guid>https://mgmavlca.com/docs/records/responses-overview-2025/</guid><description>&lt;div&gt;
  &lt;p&gt;According to data submitted by the member factories through &lt;a href="https://g.mgmavlca.com/form/" target="_blank"&gt;VLCA Submission Form&lt;/a&gt;:&lt;/p&gt;
 
- &lt;h3 class="mb3rem"&gt;&lt;a href="https://mgmavlca.com/records/factories-list-2025/"&gt;Factories List that completed VLCA Submission Form&lt;/a&gt;&lt;/h3&gt;
+ &lt;h3 class="mb3rem"&gt;&lt;a href="https://mgmavlca.com/docs/records/factories-list-2025/"&gt;Factories List that completed VLCA Submission Form&lt;/a&gt;&lt;/h3&gt;
 
  &lt;h3&gt;Completion Rate&lt;/h3&gt;
  &lt;div style="max-width: 100%; overflow: auto;" class="mb3rem"&gt;
