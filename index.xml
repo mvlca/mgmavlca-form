@@ -68,7 +68,7 @@
  &lt;p&gt;The complaint has been well received and the process will continue as required.&lt;/p&gt;
  &lt;p class="close-this"&gt;နောက်ထပ်တိုင်ကြားမှုအသစ်ပို့ရန် ဒါကို ပိတ်ပါ။ Close this for new complaint.&lt;/p&gt;
  &lt;/div&gt;
- &lt;form id="complaintForm" action="https://complain-form-submit.mgmavlca.workers.dev/submit" method="POST"&gt;
+ &lt;form id="complaintForm" action="https://mgmavlca.com/complain/form-submit" method="POST"&gt;
  &lt;button type="reset" class="reset-form"&gt;Clear All&lt;/button&gt;
  &lt;label for="entry.1952372902"&gt;အမည် (Name)&lt;/label&gt;
  &lt;input type="text" name="entry.1952372902" placeholder="အမည် (Name)" autocomplete="off"&gt;
